@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Money -> Problems++
+title: Money, Problems++
 date: 2019-12-20 10:00:00
 ---
 
